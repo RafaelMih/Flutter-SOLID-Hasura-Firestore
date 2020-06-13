@@ -1,34 +1,50 @@
 {
   "project_info": {
-    "project_number": "1031637024230",
-    "firebase_url": "https://fir-todo-a33cd.firebaseio.com",
-    "project_id": "fir-todo-a33cd",
-    "storage_bucket": "fir-todo-a33cd.appspot.com"
+    "project_number": "381120722558",
+    "firebase_url": "https://facilita-9165c.firebaseio.com",
+    "project_id": "facilita-9165c",
+    "storage_bucket": "facilita-9165c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1031637024230:android:63969b5d4789e2fdd96a27",
+        "mobilesdk_app_id": "1:381120722558:android:e28a8ed59175387b",
         "android_client_info": {
-          "package_name": "com.jacob.firebase_todo"
+          "package_name": "com.rws.facilita"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1031637024230-tqg4q4e2u8jhpueveivokvoaabo4sppn.apps.googleusercontent.com",
+          "client_id": "381120722558-5b4036jsucm9carb45qnkab9nruf52vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rws.facilita",
+            "certificate_hash": "c9330d8f912f5ac818c2102ab2f7d8a2dda47f41"
+          }
+        },
+        {
+          "client_id": "381120722558-aenlogrin80tb8mlqoh7o2to76ojhi40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rws.facilita",
+            "certificate_hash": "65bacd17dbc114e846e8b9113a7d5b36fc2378f0"
+          }
+        },
+        {
+          "client_id": "381120722558-a8ggbjqcagt6ckg9sgt0g4jrlo7re8oa.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCOX1vrLLZ2Ro6shIcV95WHTglLDKD2tLU"
+          "current_key": "AIzaSyDG4qDSBQy0BTCU5FGOPfKiBHoFDLVLJhs"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1031637024230-tqg4q4e2u8jhpueveivokvoaabo4sppn.apps.googleusercontent.com",
+              "client_id": "381120722558-dpqp4genja762m6rj9ajmi2hrln6h8v8.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
